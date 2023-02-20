@@ -1,2 +1,2 @@
 # tcs_server
-Core server for Hogwarts Legacy - HogWarp
+Collection of server-script for Hogwarts Legacy - HogWarp
